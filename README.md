@@ -124,7 +124,6 @@ spring.jpa.show-sql=true
 
 ---
 
-
 ## How to Run the Application
 
 This project contains two directories:
