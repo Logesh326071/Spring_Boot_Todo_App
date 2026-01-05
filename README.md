@@ -131,6 +131,7 @@ spring.jpa.show-sql=true
 This project contains two directories:
 
 backend – Spring Boot application
+
 frontend – HTML, CSS, JavaScript
 Both must be run separately.
 
