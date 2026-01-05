@@ -108,7 +108,6 @@ json
   "password": "password123"
 }
 
-
 ---
 
 ## Application Configuration
